@@ -40,7 +40,7 @@ public class sortAlgorithm {
     }
 
     public static void main(String[] args) {
-        terribleShuffleSort(list, 0)
+        terribleShuffleSort(list, 0);
     }
 
 }
